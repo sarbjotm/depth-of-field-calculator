@@ -1,0 +1,35 @@
+Lenses to pick from:
+  0. Canon 50mm F1.8
+  1. Tamron 90mm F2.8
+  2. Sigma 200mm F2.8
+  3. Nikon 200mm F4.0
+  (-1 to exit)
+: -2
+Error: Invalid lens index.
+
+Lenses to pick from:
+  0. Canon 50mm F1.8
+  1. Tamron 90mm F2.8
+  2. Sigma 200mm F2.8
+  3. Nikon 200mm F4.0
+  (-1 to exit)
+: 4
+Error: Invalid lens index.
+
+Lenses to pick from:
+  0. Canon 50mm F1.8
+  1. Tamron 90mm F2.8
+  2. Sigma 200mm F2.8
+  3. Nikon 200mm F4.0
+  (-1 to exit)
+: 0
+Aperture [the F number]: 1.0
+ERROR: This aperture is not possible with this lens
+
+Lenses to pick from:
+  0. Canon 50mm F1.8
+  1. Tamron 90mm F2.8
+  2. Sigma 200mm F2.8
+  3. Nikon 200mm F4.0
+  (-1 to exit)
+: -1
