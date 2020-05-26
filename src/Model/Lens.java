@@ -6,10 +6,10 @@ public class Lens {
      */
     private String make;
     private double maximumAperture;
-    private int focalLength;
+    private double focalLength;
 
     //Constructor
-    public Lens(String make, double maximumAperture, int focalLength) {
+    public Lens(String make, double maximumAperture, double focalLength) {
         this.make = make;
         this.maximumAperture = maximumAperture;
         this.focalLength = focalLength;
@@ -36,11 +36,11 @@ public class Lens {
     }
 
     //Getters and Setters for focalLength
-    public int getFocalLength() {
+    public double getFocalLength() {
         return focalLength;
     }
 
-    public void setFocalLength(int focalLength) {
+    public void setFocalLength(double focalLength) {
         this.focalLength = focalLength;
     }
 
