@@ -12,6 +12,15 @@ public class lensManager implements Iterable<Lens>{
 
     }
 
+    public double getFocalLength(int n) {
+        return lenses.get(n).getFocalLength();
+    }
+
+    public double getAperture(int n) {
+        return lenses.get(n).getMaximumAperture();
+    }
+
+
     @Override
     public Iterator iterator() {
         return lenses.iterator();

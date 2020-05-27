@@ -9,10 +9,11 @@ public class Lens {
     private double focalLength;
 
     //Constructor
-    public Lens(String make, double maximumAperture, double focalLength) {
+    public Lens(String make, double focalLength, double maximumAperture) {
         this.make = make;
-        this.maximumAperture = maximumAperture;
         this.focalLength = focalLength;
+        this.maximumAperture = maximumAperture;
+
     }
 
 
